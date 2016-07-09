@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Parser  = require('../')
 const through = require('throo')
 

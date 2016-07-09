@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "bin": {},
+  "bin": {
+    "m59-tap-parser": "bin/cmd"
+  },
   "directories": {
     "test": "test"
   },
