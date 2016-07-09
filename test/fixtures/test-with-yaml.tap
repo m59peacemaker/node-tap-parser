@@ -1,0 +1,11 @@
+TAP version 13
+1..2
+ok 1 should be truthy
+not ok 2
+  ---
+  message: 'First line invalid'
+  severity: fail
+  data:
+    got: 'Flirble'
+    expect: 'Fnible'
+  ...
