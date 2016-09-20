@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "m59-tap-parser": "bin/cmd"
+    "m59-tap-parser": "bin/cmd.js"
   },
   "directories": {
     "test": "test"
