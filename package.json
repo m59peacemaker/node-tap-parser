@@ -1,19 +1,23 @@
 {
   "name": "@m59/tap-parser",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Stream that receives TAP, parses it, and emits JavaScript objects of parsed TAP.",
   "main": "index.js",
   "bin": {
-    "m59-tap-parser": "bin/cmd.js"
-  },
-  "directories": {
-    "test": "test"
+    "tap-parser": "bin/cmd.js"
   },
   "scripts": {
     "test": "tape test/*.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/node-tap-parser"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
   "dependencies": {
     "duplexer": "^0.1.1",
     "js-yaml": "^3.6.1",
