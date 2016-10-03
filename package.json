@@ -1,10 +1,10 @@
 {
   "name": "tap_parser",
-  "version": "1.0.1",
-  "description": "Stream that receives TAP, parses it, and emits JavaScript objects of parsed TAP.",
+  "version": "1.0.2",
+  "description": "Stream that receives TAP, parses it, and emits objects of parsed TAP.",
   "main": "index.js",
   "bin": {
-    "tap-parser": "bin/cmd.js"
+    "tap_parser": "bin/cmd.js"
   },
   "scripts": {
     "test": "tape test/*.js"

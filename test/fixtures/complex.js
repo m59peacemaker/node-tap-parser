@@ -75,6 +75,10 @@ module.exports = [
     }
   },
   {
+    type: 'unknown',
+    value: 'this is not TAP'
+  },
+  {
     type: 'test',
     value: 'ok 4',
     parsed: {

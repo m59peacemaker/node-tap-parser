@@ -11,6 +11,7 @@ not ok 2
   ...
 ok 3 should be truthy
 # hey hey hey
+this is not TAP
 ok 4
 ok 5 meh
   ---
