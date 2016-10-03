@@ -1,17 +1,17 @@
-# @m59/tap-parser
+# tap_parser
 
 Stream that receives TAP, parses it, and emits JavaScript objects of parsed TAP.
 
 ## Install
 
 ```sh
-npm install @m59/tap-parser
+npm install tap_parser
 ```
 
 ## Usage
 
 ```js
-const parser = require('@m59/tap-parser')
+const parser = require('tap_parser')
 const though = require('throo')
 
 process.stdin

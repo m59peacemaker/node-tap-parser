@@ -1,6 +1,6 @@
 {
-  "name": "@m59/tap-parser",
-  "version": "1.0.0",
+  "name": "tap_parser",
+  "version": "1.0.1",
   "description": "Stream that receives TAP, parses it, and emits JavaScript objects of parsed TAP.",
   "main": "index.js",
   "bin": {
