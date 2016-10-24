@@ -1,6 +1,6 @@
 {
   "name": "tap_parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Stream that receives TAP, parses it, and emits objects of parsed TAP.",
   "main": "index.js",
   "bin": {
@@ -22,7 +22,7 @@
     "duplexer": "^0.1.1",
     "js-yaml": "^3.6.1",
     "tap-lexer": "^1.0.2",
-    "tap-line-parsers": "^1.0.0",
+    "tap-line-parsers": "^1.0.1",
     "throo": "^1.0.0",
     "through2": "^2.0.1"
   },
